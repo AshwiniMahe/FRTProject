@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'AQIFRT'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2CAF83F9872049DD8159D19D2AB4652B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_751BA79D86364CE4BF9C391C5945BD96 }}
